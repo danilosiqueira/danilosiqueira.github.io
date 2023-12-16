@@ -30,7 +30,7 @@ twitter_username: danilossdev
 github_username:  danilosiqueira
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: .
 incremental: false
 highlighter: rouge
 gist:
