@@ -45,6 +45,9 @@ plugins:
   - jekyll-feed
   - jekyll-admin
 
+# Parameters
+google_analytics: G-LMVF19MZF5
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
